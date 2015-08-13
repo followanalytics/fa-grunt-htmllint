@@ -18,7 +18,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "htmllint": "https://github.com/followanalytics/fa-htmllint/tarball/fa3057da99d670fa1fdd6225ea3e16c7267aa56f",
+    "htmllint": "https://github.com/followanalytics/fa-htmllint/tarball/e9e03594b5e6a692145a97d95604ac6dddfca228",
     "promise": "^6.0.1"
   },
   "devDependencies": {
